@@ -1,0 +1,5 @@
+before_script:
+  - cd test
+
+script:
+  - ./run.sh
